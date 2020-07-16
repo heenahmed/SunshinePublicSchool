@@ -1,2 +1,2 @@
-# SunshinePublicSchool.github.io
+# SunshinePublicSchool
 psuedo school website
